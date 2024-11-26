@@ -1,3 +1,4 @@
+# ShapeMamba-EM
 ------
 This is the official repository for the paper [ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0151_paper.pdf).
 
